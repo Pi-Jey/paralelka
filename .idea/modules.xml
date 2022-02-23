@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PDCLab1/PDCLab1.iml" filepath="$PROJECT_DIR$/PDCLab1/PDCLab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDCLab1_Start/PDCLab1_Start.iml" filepath="$PROJECT_DIR$/PDCLab1_Start/PDCLab1_Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/paralelka.iml" filepath="$PROJECT_DIR$/.idea/paralelka.iml" />
+    </modules>
+  </component>
+</project>
